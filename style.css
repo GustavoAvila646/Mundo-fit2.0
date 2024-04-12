@@ -7,7 +7,7 @@ body{
       
 }
 .cabecalho{
-    background-color: #d115b3;
+    background-color: #754906;
     color: #FFFFFF;
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@ body{
     padding-left: 50px;
 }
 .tenis{
-    background-image: linear-gradient(#15d11e, #05ab08);
+    background-image: linear-gradient(#18ec23, #05ab08);
     color: #FFFFFF;
     display: flex;
     justify-content: center;
