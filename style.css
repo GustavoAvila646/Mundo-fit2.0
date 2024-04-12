@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body{
+        font-family: "Poppins", sans-serif;
+      
+}
+.cabecalho{
+    background-color: #d115b3;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding: 16px 0;
+    align-items: center;
+}
+.cabecalho-imagem{
+    width: 15%;
+}
+.item-lista-cabecalho{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 24px;
+}
+.tenis-imagem{
+    width: 25%;
+    padding-left: 50px;
+}
+.tenis{
+    background-image: linear-gradient(#d115b3, #3222ef);
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px 0;
+    text-align: justify;
+}
+.div-tenis{
+    width: 35% ;
+}
+.titulo-tenis{
+    padding: 24px 0;
+}
+.tenis-texto-um{
+    padding: 16px 0;
+}
+.tenis-texto-dois{
+    padding: 16px 0;
+}
+.atleta-imagem{
+    width: 120px;
+}
+.atleta-icone{
+    width: 24px;
+    padding: 0 8px;
+}
+.atletas{
+    padding: 24px 0;
+    background-color: #dc84fe;
+    color: #8811ff;
+}
+.atleta-div{
+    text-align: center;
+    padding: 24px 0;
+}
+.atleta-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+.atletas-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
