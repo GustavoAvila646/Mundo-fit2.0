@@ -73,4 +73,18 @@ body{
 .rodape{
     background-color: #000000;
     text-align: center;
+    color: #FFFFFF;
+}
+.rodape-logo{
+    width: 20%;
+}
+.rodape-icone{
+    width: 24px;
+}
+.rodape-div{
+    display: flex;
+    justify-content: center;
+}
+.rodape-fone{
+    padding: 0 6px;
 }
