@@ -68,7 +68,7 @@ body{
 }
 .atletas-todos{
     display: grid;
-    grid-template-columns: 25% 25% 25% 0%;
+    grid-template-columns: 25% 25% 25%;
 }
 .rodape{
     background-color: #000000;
