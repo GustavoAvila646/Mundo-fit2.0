@@ -49,6 +49,10 @@ body{
 .atleta-imagem{
     width: 120px;
 }
+.atleta-icone{
+    width: 24px;
+    padding: 0 8px;
+}
 .fotos-icone{
     width: 150px;
     padding: 0 8px;
