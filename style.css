@@ -67,7 +67,7 @@ body{
     padding: 24px 0;
 }
 .atletas-todos{
-    display: contents;
+    display: flexbox;
     grid-template-columns: 25% 25% 25%;
 }
 .rodape{
